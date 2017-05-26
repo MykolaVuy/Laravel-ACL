@@ -1,4 +1,4 @@
-# MykolaVuy/Laravel-ACL
+# Laravel-ACL
 
 [![Laravel](https://img.shields.io/badge/Laravel-~5.0-orange.svg?style=flat-square)](http://laravel.com)
 [![Source](http://img.shields.io/badge/source-MykolaVuy/laravel--acl-blue.svg?style=flat-square)](https://github.com/MykolaVuy/Laravel-ACL/)
